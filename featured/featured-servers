@@ -4,7 +4,7 @@
     "address": "mc.cosmosmc.org",
     "port": 19132,
     "description": "The ultimate Bedrock adventure with custom features, events, and an active community.",
-    "iconUrl": "https://github.com/NetherDevMc/NetherLinkData/blob/main/featured/icons/cosmosmc.png?raw=true",
+    "iconUrl": "https://raw.githubusercontent.com/NetherDevMc/NetherLinkData/main/featured/icons/cosmosmc.png",
     "websiteUrl": "https://cosmosmc.org"
   },
   {
@@ -12,7 +12,7 @@
     "address": "mc.chillsmp.org",
     "port": 19132,
     "description": "A relaxed survival server focused on community, building, and pure Minecraft fun.",
-    "iconUrl": "https://github.com/NetherDevMc/NetherLinkData/blob/main/featured/icons/chillsmp.png?raw=true",
+    "iconUrl": "https://raw.githubusercontent.com/NetherDevMc/NetherLinkData/main/featured/icons/chillsmp.png",
     "websiteUrl": "https://chillsmp.org/"
   }
 ]
