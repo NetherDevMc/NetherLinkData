@@ -1,5 +1,5 @@
 {
   "title": "Relay Server Information",
-  "message": "Only the US relay supports Nintendo Switch DNS. The EU relay is available only for users on the old version until everyone updates NetherLink.",
+  "message": "EU is now available for broadcasting. DNS Nintendo is still being worked on — thanks for your patience!",
   "type": "warning"
 }
