@@ -14,5 +14,21 @@
     "description": "A relaxed survival server focused on community, building, and pure Minecraft fun.",
     "iconUrl": "https://raw.githubusercontent.com/NetherDevMc/NetherLinkData/main/featured/icons/chillsmp.png",
     "websiteUrl": "https://chillsmp.org/"
+  },
+  {
+    "name": "LifeSteal SMP",
+    "address": "nl.lifestealsmp.com",
+    "port": 19132,
+    "description": "Kill players to steal their hearts, form alliances, raid bases, and climb to the top.",
+    "iconUrl": "https://raw.githubusercontent.com/NetherDevMc/NetherLinkData/main/featured/icons/lifesteal.png",
+    "websiteUrl": "https://store.lifestealsmp.com/"
+  },
+  {
+    "name": "LeafVanilla",
+    "address": "nl.leafvanilla.net",
+    "port": 19132,
+    "description": "We are a semi-vanilla Minecraft server with land claims, economy, and auctions.",
+    "iconUrl": "https://raw.githubusercontent.com/NetherDevMc/NetherLinkData/main/featured/icons/leafvanilla.png",
+    "websiteUrl": "https://store.leafvanilla.net/"
   }
 ]
