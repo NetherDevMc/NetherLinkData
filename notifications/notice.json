@@ -1,5 +1,5 @@
 {
   "title": "Relay Server Information",
-  "message": "Featured server slots are available for purchase. For more information, visit our website.",
-  "type": "info"
+  "message": "We are currently working on improving our relay server infrastructure. You will be redirected to a different region server.",
+  "type": "warning"
 }
