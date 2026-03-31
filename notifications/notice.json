@@ -1,5 +1,5 @@
 {
   "title": "Relay Server Information",
-  "message": "Featured server slots are available for purchase. For more information, visit our website.",
-  "type": "info"
+  "message": "EU Relay server is having some issues, we are actively working on the relay. if you cannot connect to EU please use US relay.",
+  "type": "warning"
 }
