@@ -1,4 +1,5 @@
 {
   "title": "Relay Server Information",
-  "message": "Friends mode has been patched and is working again."
+  "message": "Friends mode has been patched and is working again.",
+  "type": "warning"
 }
