@@ -1,5 +1,5 @@
 {
   "title": "Relay Server Information",
-  "message": "US region server can be offline due to maintenance, please use EU region server.",
+  "message": Some modes and services can be offline due to migrations of our system.",
   "type": "warning"
 }
