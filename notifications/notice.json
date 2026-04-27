@@ -1,5 +1,5 @@
 {
   "title": "Relay Server Information",
-  "message": Some modes and services can be offline due to migrations of our system.",
+  "message": "Some modes and services can be offline due to migrations of our system.",
   "type": "warning"
 }
