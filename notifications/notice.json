@@ -1,5 +1,5 @@
 {
-  "title": "Relay Server Information",
-  "message": "Some modes and services can be offline due to migrations of our system.",
+  "title": "Update Netherlink!",
+  "message": "You are using an old version of Netherlink; please update.",
   "type": "warning"
 }
